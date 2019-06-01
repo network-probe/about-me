@@ -8,3 +8,5 @@ Todo
 4. RTSP (Opensource)
 5. Machine Learning
 6. Gstreamer
+7. Rasberry Pi
+8. Ubuntu
